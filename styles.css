@@ -1,0 +1,33 @@
+body{
+background-color:#87CEFA;
+}
+.Angelina{
+  color: orange;
+}
+h1{
+  font-family: 'Chewy', cursive;
+}
+.Hobbies{
+  color:orange;
+  font-family: 'Chewy', cursive;
+}
+.FavFoods{
+  color: orange;
+  font-family: 'Chewy', cursive;
+}
+.dream{
+  color: orange;
+  font-family: 'Chewy', cursive;
+}
+.favdream{
+  float:left;
+  width:50%;
+}
+.container{
+  content:center;
+  display: table;
+  clear:both;
+  display: inline-block;
+  width: auto;5000px;
+margin-left:0%;
+}
